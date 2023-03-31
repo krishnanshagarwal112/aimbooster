@@ -1,0 +1,20 @@
+body{
+    margin: 1px;
+    overflow-y: hidden;
+    text-align: center;
+    background-color: #BACDDB;
+}
+#score{
+    text-align: center;
+    font-size: xx-large;
+}
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+#reset{
+    background-color: aqua;
+    border: none;
+}
